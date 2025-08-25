@@ -82,10 +82,10 @@ Inside every assignment folder, you will find:
 
 ## 👤 Author
 
-**Bilal**
+**Blal**
 
 * Problem Solver & Student of Computer Science
 * Interested in Data Structures, Algorithms, and Competitive Programming
-* [GitHub Profile](https://github.com/<USERNAME>)
-* (LinkedIn link can be added here)
+* [GitHub Profile](https://github.com/blal211)
+* (www.linkedin.com/in/blal-fathy-62033824a)
 
