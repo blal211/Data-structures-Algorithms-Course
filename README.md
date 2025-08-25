@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Course (Mostafa Saad – Live)
+# Data Structures and Algorithms Course (Dr. Mostafa Saad – Live)
 
 This repository contains my **C++ solutions** for the assignments of the **Data Structures and Algorithms (Live) course by Eng. Mostafa Saad**.
 The goal of this repository is to document my learning journey, track my progress, and provide a reference for anyone following the same course.
