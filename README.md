@@ -87,5 +87,6 @@ Inside every assignment folder, you will find:
 * Problem Solver & Student of Computer Science
 * Interested in Data Structures, Algorithms, and Competitive Programming
 * [GitHub Profile](https://github.com/blal211)
-* (www.linkedin.com/in/blal-fathy-62033824a)
+* [linkedin Profile](www.linkedin.com/in/blal-fathy-62033824a)
+  
 
